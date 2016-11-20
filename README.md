@@ -11,8 +11,8 @@ $ pip install watchdog
 ## Usage
 
 ```
-$ mkdir build
-$ mkdir image
+$ mkdir build image
+$ touch doc.tex
 $ python auto_compile_latex.py
 ```
 
