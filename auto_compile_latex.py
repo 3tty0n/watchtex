@@ -76,5 +76,3 @@ if __name__ in '__main__':
     except KeyboardInterrupt:
         observer.stop()
     observer.join()
-
-
