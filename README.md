@@ -1,6 +1,6 @@
 # watchtex
 
-_watchtex_ is an auto compile tool for latex.
+_watchtex_ is an auto compile tool for LaTeX.
 
 ## Dependency
 
